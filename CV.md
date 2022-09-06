@@ -7,24 +7,7 @@ TG: @q1010001q
 4. Skills: HTML,CSS,JS
 5. Slider Code:
 ```
-<script
-      type="text/javascript"
-      src="//code.jquery.com/jquery-1.11.0.min.js"
-    ></script>
-    <script
-      type="text/javascript"
-      src="//code.jquery.com/jquery-migrate-1.2.1.min.js"
-    ></script>
-    <script type="text/javascript" src="slick/slick.min.js"></script>
-    <script>
-      $(document).ready(function () {
-        $(".container").slick({
-          arrows: true,
-        });
-      });
-    </script>
-  </body>
-</html>
+<p> "Hello World!" </p>
 ```
 6. [Link to the first repository](https://github.com/JordanHit/SVCHVS)
 7. Stepik: Web Development for Beginners: HTML and CSS;  
