@@ -6,7 +6,7 @@ TG: @q1010001q
 3. I am 19 years old. I study at the Belarusian-Russian University in the 3rd year of the Faculty of Engineering and Economics, specializing in Software Engineering.
 4. Skills: HTML,CSS,JS
 5. Slider Code:
-```
+```html
 <p> "Hello World!" </p>
 ```
 6. [Link to the first repository](https://github.com/JordanHit/SVCHVS)
